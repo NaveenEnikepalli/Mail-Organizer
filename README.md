@@ -86,6 +86,7 @@ adb install -r build\app\outputs\flutter-apk\app-release.apk
 - Add more robust NLP for deadline detection (SpaCy / server-side models) or integrate ML-based NER for date extraction.
 - Improve reminder scheduling and local notifications (use `flutter_local_notifications`).
 - Add IMAP fallback for non-Gmail accounts.
+  
 
 
 
