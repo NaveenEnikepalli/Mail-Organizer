@@ -87,11 +87,5 @@ adb install -r build\app\outputs\flutter-apk\app-release.apk
 - Improve reminder scheduling and local notifications (use `flutter_local_notifications`).
 - Add IMAP fallback for non-Gmail accounts.
 
-If you want, I can also:
-- Re-run `flutter build apk` and upload the produced APK to a specific path.
-- Add CI steps to automatically build and create named artifacts.
 
----
-
-If anything here is unclear or you want the README to include screenshots or sample logs, tell me which items to add and I'll update it.
 
