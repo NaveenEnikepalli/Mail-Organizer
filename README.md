@@ -1,7 +1,7 @@
 
-# MailMind (Mail Organizer)
+# Mail Organizer
 
-MailMind (renamed to "Mail Organizer" in the Android build) is a Flutter-based email assistant prototype that syncs Gmail messages, detects deadlines and reminders in email text, classifies priorities with a TFLite model, and stores metadata locally with Hive.
+Mail Organizer is a Flutter-based email assistant prototype that syncs Gmail messages, detects deadlines and reminders in email text, classifies priorities with a TFLite model, and stores metadata locally with Hive.
 
 **What we changed / implemented**
 - **App label**: Set Android application label to "Mail Organizer" (`android/app/src/main/AndroidManifest.xml`).
